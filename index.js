@@ -41,7 +41,7 @@ var versionAliases = (exports.versionAliases = {
 });
 
 var updateJSON = (exports.updateJSON = function(obj, ver) {
-  ver = ver.toString().toLowerCase();
+  ver = ver.toString();
 
   // check for aliases
   if (ver in versionAliases) {
