@@ -1,3 +1,15 @@
+hice una versión del mversion que te pone la version en mayuscula
+ 
+Desinstalar primero la version actual de mversion
+// sudo npm uninstall mversion -g
+ 
+// instalar
+npm install -g https://github.com/luismiguelbravo/mversion/
+ 
+// ejemplo de uso
+mversion 2.0.0-UPPERCASE -m
+
+
 mversion - A cross packaging manager module version handler/bumper
 ===
 
