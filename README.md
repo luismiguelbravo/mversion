@@ -1,3 +1,6 @@
+mversion - A cross packaging manager module version handler/bumper
+===
+
 hice una versión del mversion que te pone la version en mayuscula
  
 Desinstalar primero la version actual de mversion
@@ -10,8 +13,7 @@ npm install -g https://github.com/luismiguelbravo/mversion/
 mversion 2.0.0-UPPERCASE -m
 
 
-mversion - A cross packaging manager module version handler/bumper
-===
+
 
 [![npm](https://img.shields.io/npm/v/mversion.svg?style=flat)](https://npmjs.com/package/mversion) [![Travis](https://img.shields.io/travis/mikaelbr/mversion.svg?style=flat)](https://travis-ci.org/mikaelbr/mversion) [![Gemnasium](https://img.shields.io/gemnasium/mikaelbr/mversion.svg?style=flat)](https://gemnasium.com/mikaelbr/mversion)
 
