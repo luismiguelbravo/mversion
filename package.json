@@ -1,6 +1,6 @@
 {
   "name": "mversion",
-  "version": "2.0.1",
+  "version": "2.0.0-UPERCASE",
   "description": "A cross packaging manager module version handler/bumper",
   "main": "index.js",
   "scripts": {
